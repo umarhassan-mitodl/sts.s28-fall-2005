@@ -6,8 +6,6 @@ description: This resource Wen-Hua Kuo discusses the trend that drugs have becom
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/1aef178b1fc8a7a8177a78c19f465073_ich_paper2.pdf
 file_size: 205972
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

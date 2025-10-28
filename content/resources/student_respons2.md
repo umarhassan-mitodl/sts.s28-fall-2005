@@ -4,8 +4,6 @@ description: This resource contains response to the response paper 2 given as as
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/215e1a75608f236aecfab6d48901c606_student_respons2.pdf
 file_size: 13399
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -5,8 +5,6 @@ description: 'This resource contains two set questions based on chapters 1 and 2
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/b4b3555544b51db81eaec1b1c8ac47ec_response_paper_1.pdf
 file_size: 12647
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

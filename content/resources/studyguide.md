@@ -5,8 +5,6 @@ description: This resource is a study guide cum assignment.  It lists two readin
 file: /courses/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/267cc6bcfee29643e007ef117e206b70_studyguide.pdf
 file_size: 39645
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
