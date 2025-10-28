@@ -9,7 +9,7 @@ ocw_type: CourseSection
 title: Readings
 uid: cde99f95-7b7a-3f5d-a215-411e6e5683fc
 ---
-This page presents the full reading list for this class as well as a calendar of the [reading assignments](https://ocw-studio.odl.mit.edu/sites/sts-s28-godzilla-and-the-bullet-train-technology-and-culture-in-modern-japan-fall-2005/type/page/edit/cde99f95-7b7a-3f5d-a215-411e6e5683fc/#Reading_Assignments) for each lecture.
+This page presents the full reading list for this class as well as a calendar of the {{% resource_link "bff8b72f-0564-45da-9d12-f3df92d036da" "reading assignments" %}} for each lecture.
 
 ## Required Texts
 
@@ -25,7 +25,7 @@ Dower, John W. *Embracing Defeat: Japan in the Wake of World War II*. New York, 
 
 Kingston, Jeffrey. *Japan in Transformation, 1952-2000*. New York, NY: Longman, 2001. ISBN: 9780582418752.
 
-ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." ([PDF](http://www.ich.org/fileadmin/Public_Web_Site/ABOUT_ICH/Vision/The_Future_of_ICH_-_Revised_2000.pdf))
+ICH Steering Committee. "The Future of ICH - Revised 2000: A Statement by the ICH Steering Committee on the occasion of the Fifth International Conference on Harmonisation, 9-11 November 2000, San Diego." ({{% resource_link "48be621b-a193-4a42-81d3-e1e8153bcbd6" "PDF" %}})
 
 Koizumi, Kenkichiro. "In Search of Wakon: The Cultural Dynamics of the Rise of Manufacturing Technology in Postwar Japan." *Technology and Culture* 43, no. 1 (2002): 29-49.
 
@@ -33,7 +33,7 @@ Napier, Susan J. *Anime from Akira to Princess Mononoke: Experiencing Contempora
 
 Nishiyama, Takashi. "Cross-disciplinary Technology Transfer in Trans-World War II Japan: The Japanese High-Speed Bullet Train as a Case Study." *Comparative Technology Transfer and Society* 1, no. 3 (2003): 305-325.
 
-Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. ([PDF](https://nanopdf.com/download/value-benefits-the-value-and-benefits-of-ich-to-industry_pdf#:~:text=ICH%2C%20through%20its%20activities%20in,each%20of%20the%20three%20regions.))
+Nutley, Caroline. "The Value and Benefits of ICH to Industry." 2000. ({{% resource_link "41bd258d-c817-4be9-b387-891de091fb47" "PDF" %}})
 
 Ohnuki-Tierney, Emiko. *Kamikaze, Cherry Blossoms, and Nationalism: The Militarization of Aesthetics in Japanese History*. Chicago, IL: University of Chicago Press, 2002. ISBN: 9780226620916.
 
@@ -75,7 +75,7 @@ Tokugawa Japan, 1600-1868
 
 Bartholomew, chapters 1 and 2, pp. 1-48.
 
-[Black Ships and Samurai](https://visualizingcultures.mit.edu/black_ships_and_samurai/index.html)
+{{% resource_link "9cab6d55-218a-44f7-bc72-452841cce446" "Black Ships and Samurai" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
@@ -97,7 +97,7 @@ Blackford, chapter 5, pp. 103-127.
 
 Ohnuki-Tierney, chapter 5, pp. 157-185.
 
-[Kamikaze Images](https://www.kamikazeimages.net/)
+{{% resource_link "d7a1ce44-8ac4-4b19-98c9-25740c31c15f" "Kamikaze Images" %}}
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
